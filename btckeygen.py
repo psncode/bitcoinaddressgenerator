@@ -1,6 +1,3 @@
-import sys
-import tempfile
-import base64
 import string
 import tkinter as tk
 from tkinter import ttk
